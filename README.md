@@ -5,11 +5,22 @@
 	<img src=https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/cub3de.png alt=cub3d_badge/>
 	<p align=center>
         <p align="center">
-	<b><i>A 3D FPS game exploring Raycasting algorithm</i></b><br>
+	<b><i>A 3D game exploring Raycasting algorithm</i></b><br>
 
----
 
 </div>
+
+---
+**Cube3D** is a 3D raycasting game inspired by classic titles like *Doom*. Developed as part of the 42 School curriculum, this project demonstrates the fundamentals of 3D rendering using low-level graphics techniques and raycasting algorithms in C.
+
+## Features
+- 3D environment rendering with raycasting
+- Player movement and collision detection
+- Textured walls for immersive gameplay
+
+## Technologies
+- **Language:** C
+- **Graphics Library:** MinilibX (MLX)
 
 ### Team Members
 
